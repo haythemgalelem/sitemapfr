@@ -183,7 +183,7 @@ function displayToc(filter) {
 // this function creates a three-column table and adds it to the screen
    var numDisplayed = 0;
    var tocTable = '';
-   var tocHead1 = 'Titre de l\'article';
+   var tocHead1 = 'Titre de larticle';
    var tocTool1 = 'Cliquez pour trier par titre';
    var tocHead2 = 'Date de publication';
    var tocTool2 = 'Cliquez pour trier par date';
