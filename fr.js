@@ -234,7 +234,7 @@ function displayToc(filter) {
    }
    tocTable += '</table>';
    if (numDisplayed == postTitle.length) {
-      var tocNote = '<span class="toc-note">Nombre de postes ' + postTitle.length + ' Postas<br/></span>'; }
+      var tocNote = '<span class="toc-note">Nombre de postes ' + postTitle.length + ' Postes<br/></span>'; }
    else {
       var tocNote = '<span class="toc-note">Nombre de postes ' + numDisplayed + ' Postes \'';
       tocNote += postFilter + '\' de '+ postTitle.length + ' Postes <br/></span>';
